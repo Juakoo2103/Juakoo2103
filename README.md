@@ -2,7 +2,7 @@
 - 👀 I’m interested in react...
 
 - ```js
-  <console.log("Hola mundo!")
+  console.log("Hola mundo!")
 
   ```
 <!---
