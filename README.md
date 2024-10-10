@@ -21,6 +21,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juakoo2103&show_icons=true&theme=radical)
 
-## 🔗 Encuéntrame en:
-- [LinkedIn](https://www.linkedin.com/in/joaquingonzalezjs)
+- ## 🔗 Encuéntrame en:
+- <a href="https://www.linkedin.com/in/joaquingonzalezjs" target="_blank">LinkedIn</a>
+
 
